@@ -1,0 +1,15 @@
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\bin\Debug\net9.0\LeetCodeCS.exe
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\bin\Debug\net9.0\LeetCodeCS.deps.json
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\bin\Debug\net9.0\LeetCodeCS.runtimeconfig.json
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\bin\Debug\net9.0\LeetCodeCS.dll
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\bin\Debug\net9.0\LeetCodeCS.pdb
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.AssemblyInfoInputs.cache
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.AssemblyInfo.cs
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.csproj.CoreCompileInputs.cache
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.sourcelink.json
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.dll
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\refint\LeetCodeCS.dll
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.pdb
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\LeetCodeCS.genruntimeconfig.cache
+D:\Repositories\LeetCodeSolutions\src\LeetCodeCS\obj\Debug\net9.0\ref\LeetCodeCS.dll
